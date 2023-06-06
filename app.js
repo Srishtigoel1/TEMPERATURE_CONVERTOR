@@ -4,7 +4,7 @@ let KelvinInput=document.querySelector('#Kelvin > input')
 
 let btn=document.querySelector('.button button')
 
-function roundumber(number){
+function roundNumber(number){
     return Math.round(number*100)/100
 
 }
